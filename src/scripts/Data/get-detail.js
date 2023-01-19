@@ -11,4 +11,4 @@ export default async function GetDetailRestaurant(detailID) {
     .catch(err => console.error(err));
 }
 
-GetDetailRestaurant('detail/rqdv5juczeskfw1e867')
+// GetDetailRestaurant('detail/rqdv5juczeskfw1e867')
